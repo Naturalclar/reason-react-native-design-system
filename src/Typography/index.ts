@@ -1,0 +1,1 @@
+export {make as Typography} from './Typography.gen'

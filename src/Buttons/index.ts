@@ -1,0 +1,1 @@
+export {make as BaseButton} from './BaseButton.gen'
